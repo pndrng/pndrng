@@ -1,4 +1,4 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<img src=”[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/pndrng/pndrng/blob/main/Blue%20Gradient%20Modern%20Marketing%20Staff%20LinkedIn%20Article%20Cover%20Image%20Banner.png?" alt=”my banner”>
 
 - 👋 Hi, I'm Panduranga B P
 - I have done my Masteras in Thermal Power Engineering from SIT, Tumkur
