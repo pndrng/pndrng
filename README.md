@@ -1,3 +1,5 @@
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
 - 👋 Hi, I'm Panduranga B P
 - I have done my Masteras in Thermal Power Engineering from SIT, Tumkur
 - I have completed my Bachelor's in Mechanical Engineering from PES College of Engineering, Mandya
